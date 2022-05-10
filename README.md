@@ -1,7 +1,7 @@
 <div align="center">
  
   ### 💫⭐️ YEO JIN ⭐️💫
-<a href="https://lunar-nickel-dbc.notion.site/CordingTest-5831ea078b0d4ec28719e0517de6b54f"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+<a href="https://lunar-nickel-dbc.notion.site/Back-End-Developer-6cb26ff3a7e04336898454651436b8e9"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
    <a href="https://github.com/yeojin822"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeojin822&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
 
   ---
