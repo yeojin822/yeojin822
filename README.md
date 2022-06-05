@@ -5,18 +5,6 @@
    <a href="https://github.com/yeojin822"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeojin822&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> 
 
   ---
- 
-</div>
-
-**About me**
-
-- 🏢 웹 서버 개발자로 일하고 있습니다
-
-- 📖 TDD, MSA , Oauth 에 관심을 가지고 있습니다
-
-- 💬 Ask me about anything [here](https://github.com/yeojin822/yeojin822/issues)
-
----
 
 <div>
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeojin822&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact"/>
